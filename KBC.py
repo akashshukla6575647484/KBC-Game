@@ -1,4 +1,3 @@
-import random
 questions=[
     { "Question" : "Capital of India?",
       "Options": ["A.Delhi","B.Mumbai","C.Kolkata","D.Pune"],
